@@ -1,8 +1,8 @@
-def my_square(x):
+def my_square(z):
         """takes a value and rtuens the square value.
 
-        uses the ** opeartor
+        uses the * opeartor
         """
-        return (x ** 2)
+        return (z * z)
 
-print(my_square(4))
+print(my_square(24))
